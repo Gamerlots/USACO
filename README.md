@@ -3,6 +3,7 @@ This will be the portfolio for USACO questions. Each folder will contain the PDF
 
 ## Important Notice
 
-This portfolio is not fully setup. The sample inputs, sample outputs, and comments will have to be added. Also, this README will expand as I add on to the files.
+This portfolio is not fully set up. Also, this README will expand as I add on to the files.
 
 ## Questions Solved
+• Angry Cows
